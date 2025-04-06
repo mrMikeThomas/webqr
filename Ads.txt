@@ -1,0 +1,1 @@
+Redirect 301 /ads.txt https://srv.adstxtmanager.com/19390/relaxed-semolina-99d4b2.netlify.app
